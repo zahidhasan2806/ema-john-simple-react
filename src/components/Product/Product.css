@@ -8,6 +8,10 @@
     color: blue;
     font-weight: 400;
 }
+.fa-star{
+    color: rgb(255, 183, 0);
+    margin-bottom: 10px;
+}
 .purchase-btn{
     background-color: goldenrod;
     width: 150px;
